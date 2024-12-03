@@ -1,0 +1,6 @@
+framework module Pods_TwoPageSwitcher {
+  umbrella header "Pods-TwoPageSwitcher-umbrella.h"
+
+  export *
+  module * { export * }
+}
